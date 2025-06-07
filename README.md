@@ -1,4 +1,5 @@
 There are two projects:
+
 One is for Jax version of RSRP cartpole experiment, the original git repo is: https://github.com/imoneoi/EvolvingConnectivity
 
 One is for RL-STDP method cartpole experiment, the original git repo is: https://github.com/NathanKlineInstitute/netpyne-STDP
