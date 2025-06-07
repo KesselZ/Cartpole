@@ -15,5 +15,7 @@ To reproduce the figure in RSRP paper:
    python es_sweep_program.py
    
 3. For RL-STDP, run:
+   
    nrnivmodl mod
+   
    python3 neurosim/main.py run
