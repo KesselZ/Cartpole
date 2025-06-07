@@ -7,12 +7,12 @@ To reproduce the figure in RSRP paper:
 1. pip install -r requirements.txt   This is the experiment environment for both projects.
 2. For RSRP cartpole experiment, run:
    
-    python ec_cartpole.py sweep
+      python ec_cartpole.py sweep
    
-    python ec_cartpole_resevior.py sweep
+      python ec_cartpole_resevior.py sweep
    
-    python es_sweep_program.py
+      python es_sweep_program.py
    
-3.For RL-STDP, run:
+3. For RL-STDP, run:
 
-    python3 neurosim/main.py run
+      python3 neurosim/main.py run
